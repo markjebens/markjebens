@@ -1,4 +1,4 @@
-## 👋 Mark Jebens
+##  Mark Jebens
 
 Full-stack engineer building production-grade platforms with a focus on scalable architecture, clean APIs, and reliable deployments.
 
