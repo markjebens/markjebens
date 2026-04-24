@@ -41,8 +41,11 @@ Full-stack engineer building production-grade platforms with a focus on scalable
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=markjebens&theme=dark&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=markjebens&theme=dark&hide_border=true&show_icons=true&hide=contribs)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=markjebens&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=markjebens&theme=dark&hide_border=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=markjebens&theme=dark&hide_border=true&layout=compact&hide=html,css)
 
 ---
